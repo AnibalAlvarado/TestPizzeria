@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aprendiz\\source\\repos\\web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF662DB0-5D2B-4658-932E-8D0CBE81DC2D}|web\\web.csproj|c:\\users\\aprendiz\\source\\repos\\web\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF662DB0-5D2B-4658-932E-8D0CBE81DC2D}|web\\web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\genericdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\genericdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374EBCF-8682-4151-904D-205563B03C80}|Business\\Business.csproj|c:\\users\\aprendiz\\source\\repos\\web\\business\\interfaces\\irepositorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374EBCF-8682-4151-904D-205563B03C80}|Business\\Business.csproj|solutionrelative:business\\interfaces\\irepositorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AC6A4-478B-4A20-80C4-FE55E4C690DB}|Utilities\\Utilities.csproj|c:\\users\\aprendiz\\source\\repos\\web\\utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{316AC6A4-478B-4A20-80C4-FE55E4C690DB}|Utilities\\Utilities.csproj|solutionrelative:utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF662DB0-5D2B-4658-932E-8D0CBE81DC2D}|web\\web.csproj|c:\\users\\aprendiz\\source\\repos\\web\\web\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF662DB0-5D2B-4658-932E-8D0CBE81DC2D}|web\\web.csproj|solutionrelative:web\\extensions\\serviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AC6A4-478B-4A20-80C4-FE55E4C690DB}|Utilities\\Utilities.csproj|c:\\users\\aprendiz\\source\\repos\\web\\utilities\\implementations\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316AC6A4-478B-4A20-80C4-FE55E4C690DB}|Utilities\\Utilities.csproj|solutionrelative:utilities\\implementations\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374EBCF-8682-4151-904D-205563B03C80}|Business\\Business.csproj|c:\\users\\aprendiz\\source\\repos\\web\\business\\implementation\\repositorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374EBCF-8682-4151-904D-205563B03C80}|Business\\Business.csproj|solutionrelative:business\\implementation\\repositorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\basedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|c:\\users\\aprendiz\\source\\repos\\web\\data\\implementation\\repositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|solutionrelative:data\\implementation\\repositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|c:\\users\\aprendiz\\source\\repos\\web\\data\\implementation\\arepositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|solutionrelative:data\\implementation\\arepositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374EBCF-8682-4151-904D-205563B03C80}|Business\\Business.csproj|c:\\users\\aprendiz\\source\\repos\\web\\business\\implementation\\arepositorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374EBCF-8682-4151-904D-205563B03C80}|Business\\Business.csproj|solutionrelative:business\\implementation\\arepositorybusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316AC6A4-478B-4A20-80C4-FE55E4C690DB}|Utilities\\Utilities.csproj|c:\\users\\aprendiz\\source\\repos\\web\\utilities\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316AC6A4-478B-4A20-80C4-FE55E4C690DB}|Utilities\\Utilities.csproj|solutionrelative:utilities\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|c:\\users\\aprendiz\\source\\repos\\web\\data\\interfaces\\irepositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|solutionrelative:data\\interfaces\\irepositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|c:\\users\\aprendiz\\source\\repos\\web\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\context\\datainitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\context\\datainitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\genericmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\genericmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\dtos\\pizzasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\pizzasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\dtos\\ordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\ordersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\dtos\\orderpizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\orderpizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\models\\pizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\models\\pizzas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\models\\orderpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\models\\orderpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|c:\\users\\aprendiz\\source\\repos\\web\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77BE426C-B907-403B-89C2-A01462DC9879}|Entity\\Entity.csproj|solutionrelative:entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E374EBCF-8682-4151-904D-205563B03C80}|Business\\Business.csproj|c:\\users\\aprendiz\\source\\repos\\web\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E374EBCF-8682-4151-904D-205563B03C80}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|c:\\users\\aprendiz\\source\\repos\\web\\data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E3D305-C631-4019-8C5A-D4D7E6A7E084}|Data\\Data.csproj|solutionrelative:data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Utilities\\Implementations\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Utilities\\Implementations\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Utilities\\Implementations\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Utilities\\Implementations\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:22:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilities",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Utilities\\Utilities.csproj",
+              "RelativeDocumentMoniker": "Utilities\\Utilities.csproj",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Utilities\\Utilities.csproj",
+              "RelativeToolTip": "Utilities\\Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T21:22:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\web\\Extensions\\ServiceExtension.cs",
+              "RelativeDocumentMoniker": "web\\Extensions\\ServiceExtension.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\web\\Extensions\\ServiceExtension.cs",
+              "RelativeToolTip": "web\\Extensions\\ServiceExtension.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:14:11.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\GenericDto.cs",
+              "RelativeDocumentMoniker": "Entity\\GenericDto.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\GenericDto.cs",
+              "RelativeToolTip": "Entity\\GenericDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:28:05.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositoryBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Business\\Interfaces\\IRepositoryBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IRepositoryBusiness.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Business\\Interfaces\\IRepositoryBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IRepositoryBusiness.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:03:36.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\BaseDto.cs",
+              "RelativeDocumentMoniker": "Entity\\BaseDto.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\BaseDto.cs",
+              "RelativeToolTip": "Entity\\BaseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:27:59.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\web\\Program.cs",
+              "RelativeDocumentMoniker": "web\\Program.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\web\\Program.cs",
+              "RelativeToolTip": "web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:11:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Business\\Implementation\\RepositoryBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementation\\RepositoryBusiness.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Business\\Implementation\\RepositoryBusiness.cs",
+              "RelativeToolTip": "Business\\Implementation\\RepositoryBusiness.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:03:55.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Implementation\\RepositoryData.cs",
+              "RelativeDocumentMoniker": "Data\\Implementation\\RepositoryData.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Implementation\\RepositoryData.cs",
+              "RelativeToolTip": "Data\\Implementation\\RepositoryData.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:59:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ARepositoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Implementation\\ARepositoryData.cs",
+              "RelativeDocumentMoniker": "Data\\Implementation\\ARepositoryData.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Implementation\\ARepositoryData.cs",
+              "RelativeToolTip": "Data\\Implementation\\ARepositoryData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:53:31.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ARepositoryBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Business\\Implementation\\ARepositoryBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implementation\\ARepositoryBusiness.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Business\\Implementation\\ARepositoryBusiness.cs",
+              "RelativeToolTip": "Business\\Implementation\\ARepositoryBusiness.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:03:47.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Utilities\\Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "Utilities\\Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Utilities\\Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "Utilities\\Exceptions\\BusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:08:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T20:51:50.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepositoryData.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Interfaces\\IRepositoryData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IRepositoryData.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Interfaces\\IRepositoryData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IRepositoryData.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwDsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:40.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataInitial.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Context\\DataInitial.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\DataInitial.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Context\\DataInitial.cs",
+              "RelativeToolTip": "Entity\\Context\\DataInitial.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:48:53.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:40:28.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\Role.cs",
+              "RelativeToolTip": "Entity\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:05:39.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GenericModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\GenericModel.cs",
+              "RelativeDocumentMoniker": "Entity\\GenericModel.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\GenericModel.cs",
+              "RelativeToolTip": "Entity\\GenericModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:08:54.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Entity\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\BaseModel.cs",
+              "RelativeToolTip": "Entity\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:07:27.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PizzasDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\PizzasDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dtos\\PizzasDto.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\PizzasDto.cs",
+              "RelativeToolTip": "Entity\\Dtos\\PizzasDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:30:49.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrdersDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\OrdersDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dtos\\OrdersDto.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\OrdersDto.cs",
+              "RelativeToolTip": "Entity\\Dtos\\OrdersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:30:42.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderPizzaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\OrderPizzaDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dtos\\OrderPizzaDto.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\OrderPizzaDto.cs",
+              "RelativeToolTip": "Entity\\Dtos\\OrderPizzaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:30:32.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\Orders.cs",
+              "RelativeToolTip": "Entity\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:06:42.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\ClientDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dtos\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\ClientDto.cs",
+              "RelativeToolTip": "Entity\\Dtos\\ClientDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:30:26.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Entity\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:31:03.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Pizzas.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\Pizzas.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Pizzas.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\Pizzas.cs",
+              "RelativeToolTip": "Entity\\Models\\Pizzas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:06:14.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderPizza.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\OrderPizza.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\OrderPizza.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\OrderPizza.cs",
+              "RelativeToolTip": "Entity\\Models\\OrderPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:26:18.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\Client.cs",
+              "RelativeToolTip": "Entity\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:05:22.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Models\\User.cs",
+              "RelativeToolTip": "Entity\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:14:29.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Entity",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Entity.csproj",
+              "RelativeDocumentMoniker": "Entity\\Entity.csproj",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Entity\\Entity.csproj",
+              "RelativeToolTip": "Entity\\Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T20:08:36.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Business\\Class1.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Business\\Class1.cs",
+              "RelativeToolTip": "Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:00:43.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Class1.cs",
+              "RelativeDocumentMoniker": "Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\source\\repos\\web\\Data\\Class1.cs",
+              "RelativeToolTip": "Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:00:12.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
